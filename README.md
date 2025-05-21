@@ -1,6 +1,6 @@
 # 🎓 PROJETO POWER BI - UNIVERSIDADE YTO NIHON
 
-Repositório de estudos feito na aula do professor Danilo Macial na plataforma da YTO NIHON, dedicado ao desenvolvimento de um dashboard analítico no Power BI, com foco na gestão de dados acadêmicos de uma universidade fictícia. 
+Repositório de estudos feito na aula do professor Danilo Maciel na plataforma da YTO NIHON, dedicado ao desenvolvimento de um dashboard analítico no Power BI, com foco na gestão de dados acadêmicos de uma universidade fictícia. 
 
 ---
 
