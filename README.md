@@ -23,7 +23,7 @@ O projeto tem como objetivo central a criação de um painel interativo que perm
 - 🔍 Filtros dinâmicos por curso, semestre, turno e outros critérios.
 - 📅 Análises de faturamento.
 
-  ---
+---
 
 ## 🖼️ Imagens do Dashboard
 
