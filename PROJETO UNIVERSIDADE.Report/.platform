@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "PROJETO UNIVERSIDADE"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0e53bad1-dc37-4b19-a89d-7c786221f4b0"
+  }
+}

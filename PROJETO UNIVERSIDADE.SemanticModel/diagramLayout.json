@@ -1,0 +1,217 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 896.792731812295,
+            "y": 0
+          },
+          "nodeIndex": "DIM_ SITUAÇÃO",
+          "nodeLineageTag": "f5d84e45-ae36-4d86-9d09-e6388e8c430c",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 60.0479339166493,
+            "y": 784.69487170370633
+          },
+          "nodeIndex": "DIM_CAMPUS",
+          "nodeLineageTag": "5777e70c-1b34-46f1-b132-73f0a959ee60",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 900.852696820417,
+            "y": 469.494509749498
+          },
+          "nodeIndex": "DIM_CURSOS",
+          "nodeLineageTag": "ae28008d-e042-4ff3-8179-ff8e50cdb53b",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 891.68071023961591,
+            "y": 159.30597861782519
+          },
+          "nodeIndex": "DIM_ESTAGIO",
+          "nodeLineageTag": "b9d20e08-27d8-45f1-b95a-ff6d0a1dd025",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 71.095619813112535,
+            "y": 159.6577223971683
+          },
+          "nodeIndex": "DIM_EXATASHUMANAS",
+          "nodeLineageTag": "6f5afca7-b3ed-4efa-8717-065a6fb8fd8d",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 69.908151035143646,
+            "y": 0
+          },
+          "nodeIndex": "DIM_FORMAPGTO",
+          "nodeLineageTag": "dc2b84b3-b3c6-48be-85dc-fd3caf2c44eb",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 70.157626354402623,
+            "y": 473.72856913292037
+          },
+          "nodeIndex": "DIM_GENERO",
+          "nodeLineageTag": "f59822ef-b4ea-477f-9d15-d094f051a42f",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 62.740944416103048,
+            "y": 621.340424940312
+          },
+          "nodeIndex": "DIM_PCD",
+          "nodeLineageTag": "cd1ce11e-f5e6-4c86-aba4-3bb693be7614",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 903.8465345003965,
+            "y": 325.05292338143556
+          },
+          "nodeIndex": "DIM_TURNO",
+          "nodeLineageTag": "d72df177-db25-4845-a3fd-3eb14a39f5f4",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 498.86303394340621,
+            "y": 211.65986038175959
+          },
+          "nodeIndex": "FATO_BASE",
+          "nodeLineageTag": "6a6139e0-e889-4c77-a0f7-a7338de32b2d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 1178.8555900842935,
+            "y": 298.170212470156
+          },
+          "nodeIndex": "MEDIDAS",
+          "nodeLineageTag": "7cde1020-f8f3-4630-9f4f-91fef5d2638d",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 1182.6146456681904,
+            "y": 163.170212470156
+          },
+          "nodeIndex": "MEDIDAS ALUNOS",
+          "nodeLineageTag": "2465a002-afb7-4bac-aa30-4871576fff88",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 13
+        },
+        {
+          "location": {
+            "x": 890.12370125208736,
+            "y": 624.170212470156
+          },
+          "nodeIndex": "DIM_ALUNOS",
+          "nodeLineageTag": "da0ba60d-de49-4244-8de6-d1463e65fbfa",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 14
+        },
+        {
+          "location": {
+            "x": 1251.5667117515411,
+            "y": 472.34743585185316
+          },
+          "nodeIndex": "DIM_PEGOUDIPLO",
+          "nodeLineageTag": "6dce7ee5-1186-4c5e-84c9-c9a4c00ebf0a",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1204.2687778348918,
+            "y": 672.34743585185311
+          },
+          "nodeIndex": "MEDIDAS FINANCEIRAS",
+          "nodeLineageTag": "fa094bff-0583-40fb-b362-ee1b614d8321",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 80,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
